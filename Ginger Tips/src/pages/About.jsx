@@ -4,7 +4,7 @@ export default function About() {
     <div className="page-content">
       <h2>About Us</h2>
       <p>
-        7StarInterior App connects patients with expert doctors, AI-driven insights,
+        Ginger tips connects patients with expert doctors, AI-driven insights,
         and smart healthcare tools to ensure timely care and better health outcomes.
       </p>
     </div>
